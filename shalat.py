@@ -405,7 +405,7 @@ def tentang():
 {lg}Nama        : {lw}Sholat
 {lg}Versi       : {lw}2.0 (update: 5 Mei 2019, 6:00PM)
 {lg}Tanggal     : {lw}31 Januari 2019, 2:18PM
-{lg}Author      : {lw}Karjok Pangesty
+{lg}Author      : {lw}Facebook Lhans Beutik
 {lg}Tujuan      : {lw}Mengingatkan kita pada
               waktu sholat
 {lg}Terimakasih : {lw}Allah SWT
